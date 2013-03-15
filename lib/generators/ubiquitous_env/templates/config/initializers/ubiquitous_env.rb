@@ -1,6 +1,4 @@
-module Ubiquitous
-
-  module Env
+module UbiquitousEnv
 
     case Rails.env
       when "development"
@@ -12,7 +10,5 @@ module Ubiquitous
       when "test"
         # ADMIN_EMAIL_ID = 'admin@test.com'
     end
-
-  end
 
 end
