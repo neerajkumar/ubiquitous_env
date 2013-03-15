@@ -1,6 +1,6 @@
 # UbiquitousEnv
 
-TODO: Write a gem description
+ubiquitous_gem is a very simple gem which takes care of very basic functionality of any Ruby on Rails based application. It provides you an easy way to manage and maintain your environment variables.
 
 ## Installation
 
@@ -12,10 +12,6 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install ubiquitous_env
-    
 Generate a default file:
 
     rails generate ubiquitous_env:install
