@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "ubiquitous_env"
   gem.version       = UbiquitousEnv::VERSION
   gem.authors       = ["Neeraj Kumar"]
-  gem.email         = ["Neeraj_Kumar@mckinsey.com"]
+  gem.email         = ["neeraj.kumar@gmail.com"]
   gem.description   = %q{Provides you an easy way to manage and maintain your environment variables.}
   gem.summary       = %q{manage your environment variables using constants at one place only.}
   gem.homepage      = ""
